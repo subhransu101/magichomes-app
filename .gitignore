@@ -4,5 +4,4 @@ __pycache__/
 *.pyc
 .env
 dist/
-properties.db
 .DS_Store
